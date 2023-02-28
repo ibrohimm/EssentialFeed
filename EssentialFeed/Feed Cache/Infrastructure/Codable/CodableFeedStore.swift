@@ -1,13 +1,10 @@
 //
-//  CodableFeedStore.swift
-//  EssentialFeed
-//
 //  Created by Ibrokhim Movlonov on 25/02/23.
 //
 
 import Foundation
 
-public class CodableFeedStore: FeedStore {
+public final class CodableFeedStore: FeedStore {
     private struct Cache: Codable {
         let feed: [CodableFeedImage]
         let timestamp: Date
