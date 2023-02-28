@@ -1,7 +1,4 @@
 //
-//  FeedCachePolicy.swift
-//  EssentialFeed
-//
 //  Created by Ibrokhim Movlonov on 23/02/23.
 //
 
