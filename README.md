@@ -1,6 +1,6 @@
 # Essential Feed App – Image Feed Feature
 
-[![Build Status](https://app.travis-ci.com/ibrohimm/EssentialFeed.svg?token=sjLMbvK4xksE9Fn4Zwps&branch=main)](https://app.travis-ci.com/ibrohimm/EssentialFeed)
+[![Build Status](https://app.travis-ci.com/ibrohimm/essential-feed-case-study.svg?token=sjLMbvK4xksE9Fn4Zwps&branch=main)](https://app.travis-ci.com/ibrohimm/essential-feed-case-study)
 
 ## BDD Specs
 
