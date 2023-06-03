@@ -2,7 +2,8 @@
 //  UIView+Shimmering.swift
 //  EssentialFeediOS
 //
-//  Created by Ibrokhim Movlonov on 02/06/23.
+//  Created by Ibrokhim Movlonov on 03/06/23.
+//
 
 import UIKit
 
