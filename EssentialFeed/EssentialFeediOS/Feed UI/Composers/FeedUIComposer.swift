@@ -23,7 +23,7 @@ public final class FeedUIComposer {
             loadingView: WeakRefVirtualProxy(feedController))
         return feedController
     }
-}
+} 
 
 private extension FeedViewController {
     static func makeWith(delegate: FeedViewControllerDelegate, title: String) -> FeedViewController {

@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		6A240EF329AF2D07001CA166 /* FeedCacheTestHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A4CD77029A74BB00034ABAF /* FeedCacheTestHelpers.swift */; };
 		6A240EF429AF2D27001CA166 /* SharedTestHelpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A4CD77229A74D6F0034ABAF /* SharedTestHelpers.swift */; };
+		6A277D6B2A440E600013AF63 /* Feed.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6A277D6A2A440E600013AF63 /* Feed.strings */; };
 		6A2CCB2029A0D81800B3A935 /* RemoteFeedItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A2CCB1F29A0D81800B3A935 /* RemoteFeedItem.swift */; };
 		6A2CCB2229A0D85900B3A935 /* LocalFeedImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A2CCB2129A0D85900B3A935 /* LocalFeedImage.swift */; };
 		6A4CD76F29A745DC0034ABAF /* ValidateFeedCacheUseCaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A4CD76E29A745DC0034ABAF /* ValidateFeedCacheUseCaseTests.swift */; };
@@ -130,6 +131,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		6A277D6A2A440E600013AF63 /* Feed.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Feed.strings; sourceTree = "<group>"; };
 		6A2CCB1F29A0D81800B3A935 /* RemoteFeedItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteFeedItem.swift; sourceTree = "<group>"; };
 		6A2CCB2129A0D85900B3A935 /* LocalFeedImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalFeedImage.swift; sourceTree = "<group>"; };
 		6A4CD76E29A745DC0034ABAF /* ValidateFeedCacheUseCaseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidateFeedCacheUseCaseTests.swift; sourceTree = "<group>"; };
@@ -439,6 +441,7 @@
 				6AA43BCC2A3AE43000FCA5ED /* FeedImagePresenter.swift */,
 				6AA43BCE2A3AE60F00FCA5ED /* FeedLoadingViewModel.swift */,
 				6AA43BD02A3AE62500FCA5ED /* FeedViewModel.swift */,
+				6A277D6A2A440E600013AF63 /* Feed.strings */,
 			);
 			path = "Feed Presentation";
 			sourceTree = "<group>";
@@ -739,6 +742,7 @@
 			files = (
 				6AA711D62A40182C00B7C108 /* Feed.storyboard in Resources */,
 				6AB2D87A2A4018FC00F0C284 /* Feed.xcassets in Resources */,
+				6A277D6B2A440E600013AF63 /* Feed.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
